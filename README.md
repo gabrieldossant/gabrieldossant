@@ -1,6 +1,5 @@
 ### Hello! This is Gabriel! 🤠
 
-- 🖥️ Study computer science and backend development.
 - 🌱 Suffer the pain of discipline or suffer the pain of regret.
 
 <div>
