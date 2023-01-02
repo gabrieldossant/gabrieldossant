@@ -7,7 +7,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a5acd&size=30&center=true&vCenter=true&width=1000&lines=HELLOOO+WELCOME+!+MY+NAME+is+Gabriel;I'm+20+years+old;I'm+from+Brazil;I'm+Studying+Computer+Science;Enjoy+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a5acd&size=30&center=true&vCenter=true&width=1000&lines=;HELLOOO+WELCOME+!+MY+NAME+is+Gabriel;I'm+20+years+old;I'm+from+Brazil;I'm+Studying+Computer+Science;Enjoy+:%29)](https://git.io/typing-svg)
 
 <h2 align="center">Main Skills</h2>
 <div align="center">
