@@ -1,8 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a5acd&size=30&center=true&vCenter=true&width=1000&lines=;HELLOOO+WELCOME+!+My+name+is+Gabriel;I'm+20+years+old;I'm+from+Brazil;I'm+Studying+Computer+Science;Enjoy+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-    <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrieldossant&show_icons=true&theme=black">
+<div align="center">
+    <img width="300px" height="300px" src="https://user-images.githubusercontent.com/80858391/210861702-0873327f-f985-4718-b8ef-f4d017b872da.jpeg">
 </div>
+
+##
+
+<br>
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=35&pause=1000&color=102DF7&center=true&vCenter=true&width=900&lines=Hello+Everybody!;Computer+Science+student;Studying+to+become+a+developer;Nice+to+meet+you..." alt="Typing SVG" /></a>
+</div>
+<br>
+
+<div align="center">
+    <h2>📊 GitHub Status</h2>
+    <a href="https://github.com/gabrieldossant/gabrieldossant.git"><img alt="Gabriel Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldossant&show_icons=true&count_private=true&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/gabrieldosssant/gabrieldossant.git"><img alt="Gabriel Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldossant&langs_count=8&count_private=true&layout=compact&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
+</div>
+
+
 <br>
 <h2 align="center">Technologies</h2>
 <div align="center">
