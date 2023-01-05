@@ -12,8 +12,8 @@
 
 <div align="center">
     <h2>📊 GitHub Status</h2>
-    <a href="https://github.com/gabrieldossant/gabrieldossant.git"><img alt="Gabriel Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldossant&show_icons=true&count_private=true&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/gabrieldosssant/gabrieldossant.git"><img alt="Gabriel Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldossant&langs_count=8&count_private=true&layout=compact&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/gabrieldossant/gabrieldossant.git"><img alt="Gabriel Github Stats" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=gabrieldossant&show_icons=true&count_private=true&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/gabrieldosssant/gabrieldossant.git"><img alt="Gabriel Top Languages" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldossant&langs_count=8&count_private=true&layout=compact&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
     <br/>
 </div>
 
