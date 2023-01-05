@@ -2,13 +2,17 @@
     <img width="300px" height="300px" src="https://user-images.githubusercontent.com/80858391/210861702-0873327f-f985-4718-b8ef-f4d017b872da.jpeg">
 </div>
 
-##
-
 <br>
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=35&pause=1000&color=102DF7&center=true&vCenter=true&width=900&lines=Hello+Everybody!;Computer+Science+student;Studying+to+become+a+developer;Nice+to+meet+you..." alt="Typing SVG" /></a>
 </div>
 <br>
+
+<h2>🤠 About me: </h2>
+<p>Former student at Proa Institute</p><br>
+<p>Studying English at Yazigi School</p><br>
+<p>Studying second semester of computer science</p><br>
+
 
 <div align="center">
     <h2>📊 GitHub Status</h2>
