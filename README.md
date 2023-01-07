@@ -8,6 +8,7 @@
 </div>
 <br>
 
+
 <h2>🤠 About me: </h2>
 <div align-items="left">
     <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211164909-016d5970-e086-496f-8ae3-bdee5dc8d213.png"> - Former student at Proa Institute / Developer Web Java</p>
@@ -17,7 +18,15 @@
     <p></p>
 </div>
 
-
+<h2 align="center">Technologies</h2>
+<div align="center">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
+    <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</div>
+<br>
 
 <div align="center">
     <h2>📊 GitHub Status</h2>
@@ -26,23 +35,14 @@
     <br/>
 </div>
 
-
-<br>
-<h2 align="center">Technologies</h2>
-<div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div>
 <br>
 <div align="center">
     <a href="https://git.io/streak-stats">
     <img alt="Gabrieldossant GitHub Streak" src="https://streak-stats.demolab.com?user=gabrieldossant&theme=neon-dark" /></a>
 </div>
+
+<br>
+
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
