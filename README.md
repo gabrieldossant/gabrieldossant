@@ -8,11 +8,11 @@
 </div><br>
 
 <div align="center">
-    <a href="mailto:gabrieldosantossilva17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.facebook.com/profile.php?id=100006772567066"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://www.instagram.com/gabri6l_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://twitter.com/gabigou_666"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:gabrieldosantossilva17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=102DF7"></a>
+    <a href="https://www.facebook.com/profile.php?id=100006772567066"><img src="https://img.shields.io/badge/Facebook-1C1C1C?style=for-the-badge&logo=facebook&logoColor=102DF7"></a>
+    <a href="https://www.instagram.com/gabri6l_/"><img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=102DF7"></a>
+    <a href="https://twitter.com/gabigou_666"><img src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=102DF7"></a>
+    <a href=""><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=102DF7"></a>
     <p><i>Get in touch with me on my networks</i></p>
 </div>
 
@@ -25,7 +25,6 @@
     <p><img align="center" width="75px" height="25px" src="https://user-images.githubusercontent.com/80858391/211165648-4113e9f7-8b99-4e24-9c5f-b3d2f80fe7d5.png">- Studying English at Yazigi School</p>  
     <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211166786-52a42558-6dc3-4cc5-a163-3db5bb65d903.png"> - Studying second semester of computer science at Cruzeiro do Sul</p>
     <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211166596-7ef5b07b-29a2-4836-b8ea-9779aaca947c.jpg"> - Studying via the Alura platform</p> 
-    <p></p>
 </div>
 
 <h2 align="center">Technologies</h2>
