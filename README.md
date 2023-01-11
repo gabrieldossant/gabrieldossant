@@ -24,7 +24,7 @@
     <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211164909-016d5970-e086-496f-8ae3-bdee5dc8d213.png"> - Former student at Proa Institute / Developer Web Java</p>
     <p><img align="center" width="75px" height="25px" src="https://user-images.githubusercontent.com/80858391/211165648-4113e9f7-8b99-4e24-9c5f-b3d2f80fe7d5.png">- Studying English at Yazigi School</p>  
     <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211166786-52a42558-6dc3-4cc5-a163-3db5bb65d903.png"> - Studying second semester of computer science at Cruzeiro do Sul</p>
-    <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211166596-7ef5b07b-29a2-4836-b8ea-9779aaca947c.jpg"> - Studying via the Alura platform</p> 
+    <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211166596-7ef5b07b-29a2-4836-b8ea-9779aaca947c.jpg"> - Studying via the Alura platform. <a href="https://cursos.alura.com.br/user/gabrieldossantossilva69">My profile</a></p> 
 </div>
 
 <h2 align="center">Technologies</h2>
