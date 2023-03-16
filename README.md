@@ -12,7 +12,7 @@
     <a href="https://www.facebook.com/profile.php?id=100006772567066"><img src="https://img.shields.io/badge/Facebook-1C1C1C?style=for-the-badge&logo=facebook&logoColor=102DF7"></a>
     <a href="https://www.instagram.com/gabri6l_/"><img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=102DF7"></a>
     <a href="https://twitter.com/gabigou_666"><img src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=102DF7"></a>
-    <a href=""><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=102DF7"></a>
+    <a href="https://www.linkedin.com/in/gabriel-dos--santos/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=102DF7"></a>
     <p><i>Get in touch with me on my networks</i></p>
 </div>
 
