@@ -50,11 +50,3 @@
     <a href="https://git.io/streak-stats">
     <img alt="Gabrieldossant GitHub Streak" src="https://streak-stats.demolab.com?user=gabrieldossant&theme=neon-dark" /></a>
 </div>
-
-<br>
-
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrieldossant}/count.svg" /></p> 
-<br>
-</div>
