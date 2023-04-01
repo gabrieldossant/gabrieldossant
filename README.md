@@ -16,8 +16,13 @@
     <p><i>Get in touch with me on my networks</i></p>
 </div>
 
-<br>
+<div align="center">
+    <a href="https://github.com/gabrieldossant/gabrieldossant.git"><img alt="Gabriel Github Stats" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=gabrieldossant&show_icons=true&count_private=true&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/gabrieldosssant/gabrieldossant.git"><img alt="Gabriel Top Languages" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldossant&langs_count=8&count_private=true&layout=compact&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
+</div> 
 
+<br>
 
 <h2>🤠 About me: </h2>
 <div align-items="left">
@@ -27,18 +32,11 @@
     <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211166596-7ef5b07b-29a2-4836-b8ea-9779aaca947c.jpg"> - Studying via the Alura platform. <a href="https://cursos.alura.com.br/user/gabrieldossantossilva69">My profile</a></p> 
 </div>
 
+
 <h2 align="center">Technologies</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,php,java,git,github">
-</div>    
-<br>
-
-<div align="center">
-    <h2>📊 GitHub Status</h2>
-    <a href="https://github.com/gabrieldossant/gabrieldossant.git"><img alt="Gabriel Github Stats" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=gabrieldossant&show_icons=true&count_private=true&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/gabrieldosssant/gabrieldossant.git"><img alt="Gabriel Top Languages" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldossant&langs_count=8&count_private=true&layout=compact&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
-</div>
+</div>  
 
 <br>
 <div align="center">
