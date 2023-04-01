@@ -29,12 +29,7 @@
 
 <h2 align="center">Technologies</h2>
 <div align="center">
-    <img width="80px" height="82px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img width="80px" height="82px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-    <img width="60px" height="60px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img width="80px" height="80px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="80px" height="80px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="80px" height="80px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,php,java,git,github">
 </div>    
 <br>
 
