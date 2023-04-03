@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,php,java,git,github">
 </div>  
 
-<br>
+<br><br>
 <div align="center">
     <a href="https://git.io/streak-stats">
     <img alt="Gabrieldossant GitHub Streak" src="https://streak-stats.demolab.com?user=gabrieldossant&theme=neon-dark" /></a>
