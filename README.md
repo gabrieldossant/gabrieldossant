@@ -7,7 +7,6 @@
 
 <div align="center">
     <a href="mailto:gabrieldosantossilva17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=102DF7"></a>
-    <a href="https://www.facebook.com/profile.php?id=100006772567066"><img src="https://img.shields.io/badge/Facebook-1C1C1C?style=for-the-badge&logo=facebook&logoColor=102DF7"></a>
     <a href="https://www.instagram.com/gabri6l_/"><img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=102DF7"></a>
     <a href="https://twitter.com/gabigou_666"><img src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=102DF7"></a>
     <a href="https://www.linkedin.com/in/gabriel-dos--santos/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=102DF7"></a>
@@ -23,9 +22,13 @@
 <br>
 
 
-Technologies
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,php,java,git,github">
+## Back-end
+<div>
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,php,mysql,git">
+</div>  
+<h2>Front-end</h2>
+<div>
+    <img src="https://skillicons.dev/icons?i=html,css,react">
 </div>  
 
 <br><br>
