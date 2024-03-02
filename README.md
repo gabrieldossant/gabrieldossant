@@ -22,7 +22,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Heebo&weight=300&size=25&pause=1000&color=E1E1E1&background=0C104300&vCenter=true&width=550&lines=Languages+and+Tools+I+have+used+and+learned" alt="Typing SVG" /></a>  
 </div>    
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,php,mysql,git,vscode,docker,mongodb">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,mysql,git,vscode">
 </div>  
 
 <br><br>
