@@ -27,8 +27,5 @@
 
 <br><br>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=gabrieldossant&style=for-the-badge">
-</div>
 
 
