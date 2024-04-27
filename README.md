@@ -7,17 +7,7 @@
     <a href="https://www.linkedin.com/in/gabriel-dos--santos/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=102DF7"></a>
 </div>
 
-<br>
-
-<div align="center">
-    <a href="https://github.com/gabrieldossant/gabrieldossant.git"><img alt="Gabriel Github Stats" height="179em" width="46%" src="https://github-readme-stats.vercel.app/api?username=gabrieldossant&show_icons=true&count_private=true&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/gabrieldosssant/gabrieldossant.git"><img alt="Gabriel Top Languages" height="179em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldossant&langs_count=8&count_private=true&layout=compact&title_color=102DF7FF&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
-</div>          
-
----
-
-<br>
+<br><br>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Heebo&weight=300&size=25&pause=1000&color=E1E1E1&background=0C104300&vCenter=true&width=550&lines=Languages+and+Tools+I+have+used+and+learned" alt="Typing SVG" /></a>  
 </div>    
